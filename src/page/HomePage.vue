@@ -4,10 +4,3 @@
     <p>Descriprion home page</p>
   </div>
 </template>
-
-<script>
-</script>
-
-<style>
-
-</style>
